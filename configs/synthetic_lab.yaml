@@ -1,0 +1,10 @@
+seed: 42
+students: 80
+term: Fall 2026
+programs:
+  - Computer Science
+  - Data Science
+  - Cybersecurity
+  - Information Systems
+outputs: outputs
+advisor_review_required: true
