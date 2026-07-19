@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="320" viewBox="0 0 1120 320" role="img" aria-label="University course planning architecture">
+  <rect width="1120" height="320" fill="#f8fafc"/>
+  <text x="560" y="36" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#0f172a">University Course Planning Intelligence System</text>
+  <g font-family="Arial" font-size="14" fill="#0f172a">
+    <rect x="40" y="90" width="145" height="76" rx="12" fill="#dbeafe" stroke="#2563eb"/>
+    <text x="112" y="122" text-anchor="middle" font-weight="700">Student Goals</text>
+    <text x="112" y="144" text-anchor="middle">Transcripts</text>
+    <rect x="220" y="90" width="145" height="76" rx="12" fill="#e0f2fe" stroke="#0284c7"/>
+    <text x="292" y="122" text-anchor="middle" font-weight="700">Degree Catalog</text>
+    <text x="292" y="144" text-anchor="middle">Prerequisites</text>
+    <rect x="400" y="90" width="145" height="76" rx="12" fill="#dcfce7" stroke="#16a34a"/>
+    <text x="472" y="122" text-anchor="middle" font-weight="700">Sections</text>
+    <text x="472" y="144" text-anchor="middle">Capacity + Time</text>
+    <rect x="580" y="90" width="145" height="76" rx="12" fill="#fef3c7" stroke="#d97706"/>
+    <text x="652" y="122" text-anchor="middle" font-weight="700">Planning Engine</text>
+    <text x="652" y="144" text-anchor="middle">Transparent Rules</text>
+    <rect x="760" y="90" width="145" height="76" rx="12" fill="#fee2e2" stroke="#dc2626"/>
+    <text x="832" y="122" text-anchor="middle" font-weight="700">Risk + Fairness</text>
+    <text x="832" y="144" text-anchor="middle">Advisor Review</text>
+    <rect x="940" y="90" width="145" height="76" rx="12" fill="#ede9fe" stroke="#7c3aed"/>
+    <text x="1012" y="122" text-anchor="middle" font-weight="700">Reports</text>
+    <text x="1012" y="144" text-anchor="middle">Audit Ledger</text>
+  </g>
+  <g stroke="#334155" stroke-width="2" fill="none" marker-end="url(#arrow)">
+    <path d="M185 128 H220"/><path d="M365 128 H400"/><path d="M545 128 H580"/><path d="M725 128 H760"/><path d="M905 128 H940"/>
+  </g>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#334155"/></marker></defs>
+  <text x="560" y="230" text-anchor="middle" font-family="Arial" font-size="16" fill="#334155">Synthetic-first, advisor-reviewed, privacy-aware academic planning research platform.</text>
+</svg>
